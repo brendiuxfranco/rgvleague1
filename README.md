@@ -1,4 +1,4 @@
-# superheros
+# RGVLeague
 
 ## Project setup
 ```
